@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @St1gg3r6
 <!--- 👀 I’m interested in ...--->
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Python, VBA
+- 🌱 Continuing my learning, currently studying courses with Dataquest and ZeroToMastery
 <!--- 💞️ I’m looking to collaborate on ...--->
 - 📫 email steveusher34@btinternet.com
 
